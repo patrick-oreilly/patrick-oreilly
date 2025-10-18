@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Computer Science at The University Of Galway with a passion for software development.
+I'm a Computer Science student at The University Of Galway with a passion for software development.
 
 ## Some more background
 ### What I'm working on
