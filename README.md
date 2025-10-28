@@ -3,6 +3,7 @@ I'm a Computer Science student at The University Of Galway with a passion for so
 
 ## Some more background
 ### What I'm working on
+- **What Next?**: A turn-based narrative game powered by an AI game master. The game master crafts a living story around your group's decisions, presenting unique challenges and branching paths.
 - **Ascend**: An AI powered study hub powered by a suite of agents made with Google's Agent Development Kit (ADK)
 - **Route Scouter**: A conversational buddy to scout cool running trails, also made with Google's Agent Development Kit (ADK)
 - **The Finals Curse**: A basketball themed 2D Puzzle/platformer game
